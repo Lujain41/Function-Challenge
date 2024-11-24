@@ -27,9 +27,6 @@
 
 - Description: The function should allow updating a user's profile details: Name, Age, and Email. For updating, the application will use `ref` parameters to modify the values directly. The application should handle updates and validation accordingly.
 
-- Test case
-  ![update user](./screenshot/Screenshot1.png)
 
-**DEADLINE: THURSDAY 29.08 5PM**
 
 
